@@ -1,4 +1,4 @@
--- Minetest 0.4.2 rc1: technic
+-- Minetest 0.4.3 : technic
 
 minetest.register_alias("rebar", "technic:rebar")
 minetest.register_alias("concrete", "technic:concrete")
@@ -23,6 +23,7 @@ dofile(minetest.get_modpath("technic").."/mithril_chest.lua")
 dofile(minetest.get_modpath("technic").."/electric_furnace.lua")
 dofile(minetest.get_modpath("technic").."/battery_box.lua")
 dofile(minetest.get_modpath("technic").."/wires.lua")
+dofile(minetest.get_modpath("technic").."/wires_mv.lua")
 dofile(minetest.get_modpath("technic").."/dyes.lua")
 dofile(minetest.get_modpath("technic").."/ores.lua")
 
@@ -31,7 +32,7 @@ dofile(minetest.get_modpath("technic").."/music_player.lua")
 dofile(minetest.get_modpath("technic").."/grinder.lua")
 dofile(minetest.get_modpath("technic").."/mining_laser_mk1.lua")
 --dofile(minetest.get_modpath("technic").."/project_table.lua")
---dofile(minetest.get_modpath("technic").."/injector.lua")
+dofile(minetest.get_modpath("technic").."/injector.lua")
 dofile(minetest.get_modpath("technic").."/generator.lua")
 dofile(minetest.get_modpath("technic").."/solar_panel.lua")
 dofile(minetest.get_modpath("technic").."/geothermal.lua")
@@ -41,6 +42,10 @@ dofile(minetest.get_modpath("technic").."/items.lua")
 dofile(minetest.get_modpath("technic").."/mining_drill.lua")
 dofile(minetest.get_modpath("technic").."/screwdriver.lua")
 dofile(minetest.get_modpath("technic").."/sonic_screwdriver.lua")
+dofile(minetest.get_modpath("technic").."/node_breaker.lua")
+dofile(minetest.get_modpath("technic").."/deployer.lua")
+dofile(minetest.get_modpath("technic").."/rubber.lua")
+dofile(minetest.get_modpath("technic").."/tree_tap.lua")
 
 
 function has_locked_chest_privilege(meta, player)
