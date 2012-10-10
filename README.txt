@@ -67,6 +67,7 @@ moreores - http://minetest.net/forum/viewtopic.php?id=549
 particles - http://minetest.net/forum/viewtopic.php?id=3082
 pipeworks - http://minetest.net/forum/viewtopic.php?id=2155
 plants - http://minetest.net/forum/viewtopic.php?id=2619
+rubiks - http://minetest.net/forum/viewtopic.php?id=3342
 scaffolding - http://minetest.net/forum/viewtopic.php?id=3205
 secret_passage - http://minetest.net/forum/viewtopic.php?id=667
 sim_paint - http://minetest.net/forum/viewtopic.php?id=1279
