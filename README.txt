@@ -39,6 +39,7 @@ Thank you to all the developers who's mods make up this release.
 
 3dforniture - http://minetest.net/forum/viewtopic.php?id=2207
 bags - http://minetest.net/forum/viewtopic.php?id=3081
+birthstones - http://minetest.net/forum/viewtopic.php?id=3663
 bones - http://minetest.net/forum/viewtopic.php?id=2206
 builtin_item - http://minetest.net/forum/viewtopic.php?id=3188
 carts - http://minetest.net/forum/viewtopic.php?id=2451
