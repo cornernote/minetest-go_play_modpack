@@ -38,7 +38,6 @@ Mods Used
 Thank you to all the developers who's mods make up this release.
 
 3dforniture - http://minetest.net/forum/viewtopic.php?id=2207
-ambience - http://minetest.net/forum/viewtopic.php?id=2807
 bags - http://minetest.net/forum/viewtopic.php?id=3081
 bones - http://minetest.net/forum/viewtopic.php?id=2206
 builtin_item - http://minetest.net/forum/viewtopic.php?id=3188
